@@ -1,0 +1,67 @@
+
+
+body{
+    background-color: black !important;
+}
+.main-container{
+    margin-top: 40px;
+}
+.container-fluid{
+    text-align: center;
+    height: 80px;
+    color: rgb(135, 0, 177);
+}
+.heading{
+    padding-top: 18px;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+.form{
+    width: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border: 5px solid rgb(135, 0, 177);
+    margin: 0px auto;
+    margin-bottom: 30px;
+}
+.card2{
+    width: 360px;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid rgb(135, 0, 177);
+    margin: 0px auto;
+}
+.name{
+    width: 90%;
+    margin: 0px auto;
+}
+.input{
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding-left: 10px;
+} 
+.button{
+    width: 100%;
+    height: 40px;
+    margin: 0px auto;
+    background-color: rgb(0, 207, 0);
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.username{
+    margin-left: 10px;
+}
+.date{
+    margin-left: 10px
+}
+.title{
+    margin-left: 10px;
+}
+.desc{
+    margin-left: 10px;
+}
+.selected{
+    border: 3px solid black;
+}
